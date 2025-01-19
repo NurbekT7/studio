@@ -4,6 +4,4 @@
 | **Аудиоинтерфейс**           | **Universal Audio Apollo Twin X Duo** | DSP ускорение, плагины UAD, качество звука              | $900-$1000        |
 | **Микрофон**                 | **Neumann TLM 103**             | Природное звучание, детализированность, студийный стандарт | ~$1200-$1500      |
 | **MIDI-клавиатура**          | **Roland A-88MKII**             | 88 клавиш, высокое качество, без молоточковой механики | ~$800-$900        |
-| **PC**          | **Mac Studio**             | M2 Ultra with 24‑core CPU, 60‑core GPU, 32‑core Neural Engine
-64GB unified memory
-1TB SSD storage | ~$4000        |
+| **PC**          | **Mac Studio**             | M2 Ultra with 24‑core CPU, 60‑core GPU, 32‑core Neural Engine 64GB unified memory 1TB SSD storage | ~$4000        |
